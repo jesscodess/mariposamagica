@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'FreePixel';
-  src: url('/css/fonts/freepixel-kit/freepixel-webfont.eot'),
-       url('/css/fonts/freepixel-kit/freepixel-webfont.woff') format ('woff'),
-       url('/css/fonts/freepixel-kit/freepixel-webfont.ttf') format ('truetype'),
-       url('/css/fonts/freepixel-kit/freepixel-webfont.woff2') format ('woff2'),
-       url('/css/fonts/freepixel-kit/freepixel-webfont.svg') format ('svg');
+  src: url('css/fonts/freepixel-kit/freepixel-webfont.eot'),
+       url('css/fonts/freepixel-kit/freepixel-webfont.woff') format ('woff'),
+       url('css/fonts/freepixel-kit/freepixel-webfont.ttf') format ('truetype'),
+       url('css/fonts/freepixel-kit/freepixel-webfont.woff2') format ('woff2'),
+       url('css/fonts/freepixel-kit/freepixel-webfont.svg') format ('svg');
   font-weight:normal;
   font-style:normal;
 }
