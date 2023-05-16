@@ -1,7 +1,7 @@
 body{
    background-color:#9C50B6;
    color:#ffffff;
-   font-family: 'Fredericka the Great', sans-serif;
+   font-family: 'Libre Baskerville', serif;
 }
 .headerlogo img{
  margin-top:3%;
@@ -81,6 +81,7 @@ footer p{
  text-align:center;
  line-height:2.5;
  padding-left:0;
+ font-size:20px;
 }
 .stories{
     background-color:#4E6919;
@@ -89,6 +90,7 @@ footer p{
     margin:80px auto;
     width:80%;
     padding:0 20px 20px 20px;
+    font-size:20px;
 }
 .stories h1{
     font-size:30px;
